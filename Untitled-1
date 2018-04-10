@@ -1,0 +1,7 @@
+function isPalindrome(str){
+    let myStr = str.split(").reverse().join();
+    if (myStr == str) return true;
+}
+
+
+console.log(isPalindrome('Kayak'));
